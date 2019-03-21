@@ -2,3 +2,4 @@ another git file
 in another git folder
 third Line in bis text file
 4 line in local
+fifth line in local
